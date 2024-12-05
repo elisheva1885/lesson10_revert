@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 this is file 2
 second commit to file2
 third commit to file3
+=======
+this is file 2
+>>>>>>> parent of cdee002 (second commit)
